@@ -16,7 +16,7 @@
     <link  type = "text/css" rel = "stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <script src="bed.js" async></script>
-    <title>ToDo List</title>
+    <title>Best of Duke 2018</title>
 </head>
     <header>
     <h1 class="title-head">Best of Duke 2018</h1>
@@ -42,16 +42,22 @@
         <div id="bodApp">
             <div class = "container">
                 <div class="row">
-                <div v-for = "entry in entries" class = "col-sm-12 col-md-6 col-lg-3">
-                    <div class ="thumbnail">
-                        <a :href = entry.link>
-                            <img :src="entry.image" alt="" class="img-thumbnail img-responsive">
-                            <div class = "caption">{{entry.category}}</div>
-                        </a>
+                    <div v-for = "entry in entries" class = "col-sm-12 col-md-6 col-lg-4">
+                        <div class ="thumbnail">
+                            <a :href = "'index.html'+'#'+entry.link">
+                                <img :src="entry.image" alt="" class="img-thumbnail img-responsive">
+                                <div class = "caption">{{entry.category}}</div>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+            <article v-for="entry in entries" :id="entry.link">
+                <h1 class="category">{{entry.category}}</h1>
+                <h3 class="category">Winner: {{entry.winner}}</h3>
+                <img :src="entry.image" class="category">
+                <p class="category">{{entry.description}}</p>
+            </article>
         </div>
     </body>
 </html>

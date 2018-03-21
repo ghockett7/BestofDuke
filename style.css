@@ -10,3 +10,16 @@ h1.title-head{
     text-align: center;
     padding-bottom: 10px;
 }
+h1.category{
+    padding-left: 10px;
+}
+h3.category{
+    padding-left: 10px;
+}
+p.category{
+    padding: 20px;
+}
+img.category{
+    padding: 10px;
+    max-width: 100%;
+}
