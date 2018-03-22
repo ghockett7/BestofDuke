@@ -3,30 +3,158 @@
         "category":"Best Bar for Undergrads",
         "winner":"Shooters",
         "runnerUp":"None",
-        "image":"https://s3.amazonaws.com/media.dtc/27040_shootersii_copyf.jpg",
-        "link":""
+        "image":"Images/shooters.jpg",
+        "link":"shooters",
+        "description":"Faslkjdfalksjdkjfas;ljdff"
     },
     {
-        "category":"Best Bar for Undergrads",
-        "winner":"Shooters",
-        "runnerUp":"None",
-        "image":"https://s3.amazonaws.com/media.dtc/27040_shootersii_copyf.jpg",
-        "link":""
+        "category":"Best Bar to Watch a Game",
+        "winner":"Krafthouse",
+        "runnerUp":"Devine's",
+        "image":"Images/krafthouse.jpg",
+        "link":"krafthouse",
+        "description":"a;lksdknffas;kjdff"
     },
    {
-        "category":"Best Bar for Undergrads",
-        "winner":"Shooters",
-        "runnerUp":"None",
-        "image":"https://s3.amazonaws.com/media.dtc/27040_shootersii_copyf.jpg",
-        "link":""
+        "category":"Best Place to Live Off Campus",
+        "winner":"Berkshire Ninth",
+        "runnerUp":"Lofts at Lakeview",
+        "image":"Images/berkshire.jpg",
+        "link":"berkshire",
+        "description":"askjdlfaslj;df"
     },
    {
-        "category":"Best Bar for Undergrads",
-        "winner":"Shooters",
+        "category":"Favorite Place to Eat on Campus",
+        "winner":"Divinity Cafe",
+        "runnerUp":"Pitchforks",
+        "image":"Images/divcafe.jpg",
+        "link":"divcafe",
+        "description":"alsnjdfasjdf"
+       
+    },
+    {
+        "category":"Quenchers v Red Mango",
+        "winner":"Quenchers",
         "runnerUp":"None",
-        "image":"https://s3.amazonaws.com/media.dtc/27040_shootersii_copyf.jpg",
-        "link":""
-    }           
-         
+        "image":"Images/quenchers.jpg",
+        "link":"quenchers",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Pizza",
+        "winner":"Enzo's",
+        "runnerUp":"Pompieri",
+        "image":"Images/Enzos.jpg",
+        "link":"enzos",
+        "description":"askjdlfaslj;df"
+    },
+   {
+        "category":"Best Sandwhich",
+        "winner":"Lucky's",
+        "runnerUp":"Grilled Cheese at Div",
+        "image":"Images/Luckys.jpg",
+        "link":"luckys",
+        "description":"alsnjdfasjdf"
+       
+    },    {
+        "category":"Best Burger",
+        "winner":"Burger Bach",
+        "runnerUp":"Bull City Burger",
+        "image":"Images/burgerbach.jpg",
+        "link":"burgerbach",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Dessert",
+        "winner":"Parlour",
+        "runnerUp":"The Loop",
+        "image":"Images/Parlour.jpg",
+        "link":"parlour",
+        "description":"askjdlfaslj;df"
+    },
+   {
+        "category":"Best Sushi",
+        "winner":"M Sushi",
+        "runnerUp":"Sushi Love",
+        "image":"Images/msushi.jpg",
+        "link":"msushi",
+        "description":"alsnjdfasjdf"
+       
+    },
+    {
+        "category":"Best Brunch",
+        "winner":"The Nasher",
+        "runnerUp":"Foster's",
+        "image":"Images/nasher.jpg",
+        "link":"nasher",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Delivery",
+        "winner":"Enzo's",
+        "runnerUp":"Heavenly Buffalo's",
+        "image":"Images/Enzos.jpg",
+        "link":"enzos2",
+        "description":"askjdlfaslj;df"
+    },
+   {
+        "category":"Best BBQ",
+        "winner":"Q shack",
+        "runnerUp":"The Pit",
+        "image":"Images/qshack.jpg",
+        "link":"qshack",
+        "description":"alsnjdfasjdf"
+       
+    },
+    {
+        "category":"Best Late-Night Food",
+        "winner":"Cookout",
+        "runnerUp":"Cosmic",
+        "image":"Images/cookout.jpg",
+        "link":"cookout",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Hotel",
+        "winner":"Washington Duke",
+        "runnerUp":"Jb Duke",
+        "image":"Images/waduke.jpg",
+        "link":"waduke",
+        "description":"askjdlfaslj;df"
+    },
+   {
+        "category":"Best Cafe for Studying",
+        "winner":"Cocoa Cinnamon",
+        "runnerUp":"Bella Union",
+        "image":"Images/cocoacinnamon.jpg",
+        "link":"coco",
+        "description":"alsnjdfasjdf"
+       
+    },
+    {
+        "category":"Best Bar to Watch a Game",
+        "winner":"Krafthouse",
+        "runnerUp":"Devine's",
+        "image":"Images/krafthouse.jpg",
+        "link":"krafthouse",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Place to Live Off Campus",
+        "winner":"Berkshire Ninth",
+        "runnerUp":"Lofts at Lakeview",
+        "image":"Images/berkshire.jpg",
+        "link":"berkshire",
+        "description":"askjdlfaslj;df"
+    },
+   {
+        "category":"Favorite Place to Eat on Campus",
+        "winner":"Divinity Cafe",
+        "runnerUp":"Pitchforks",
+        "image":"Images/divcafe.jpg",
+        "link":"divcafe",
+        "description":"alsnjdfasjdf"
+       
+    }
   ]
 }
