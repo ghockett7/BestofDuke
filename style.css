@@ -6,20 +6,91 @@ html{
 .container{
 /*    background-color: darkgrey;*/
 }
-h1.title-head{
-    text-align: center;
-    padding-bottom: 10px;
-}
-h1.category{
+h1 {
+	font-family: "PT Serif Caption";
+	font-size: 34px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 40px;
     padding-left: 10px;
 }
-h3.category{
+p {
+	font-family: Lora;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 24px;
     padding-left: 10px;
+   
 }
-p.category{
-    padding: 20px;
+p.subcap{
+    font-size: 18px;
+}
+h3 {
+	font-family: "PT Serif Caption";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+    padding-left: 10px;
+
+}
+h5 {
+	font-family: "PT Serif Caption";
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+    padding-left: 14px;
+
+}
+h6 {
+	font-family: "PT Serif Caption";
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+    padding-left: 14px;
+
+}
+.spacer{
+    line-height: 30px;
 }
 img.category{
     padding: 10px;
-    max-width: 100%;
+    max-width: 90%;
+    margin: auto;
+}
+.header-image{
+    padding-top: 45px;
+    padding-bottom: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+}
+.navbar{
+    background-color: #003366;
+}
+a.navbar-brand{
+    line-height: 47px;
+    font-weight: bold;
+    color: white;
+}
+.entry{
+/*    border: 1px solid grey;*/
+/*    background-color: rgb(234, 239, 250)*/
+}
+.white-text{
+    font-size: 24px;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
