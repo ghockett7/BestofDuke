@@ -32,22 +32,6 @@
         "description":"alsnjdfasjdf"
        
     },
-    {
-        "category":"Quenchers v Red Mango",
-        "winner":"Quenchers",
-        "runnerUp":"None",
-        "image":"Images/quenchers.jpg",
-        "link":"quenchers",
-        "description":"a;lksdknffas;kjdff"
-    },
-   {
-        "category":"Best Pizza",
-        "winner":"Enzo's",
-        "runnerUp":"Pompieri",
-        "image":"Images/Enzos.jpg",
-        "link":"enzos",
-        "description":"askjdlfaslj;df"
-    },
    {
         "category":"Best Sandwhich",
         "winner":"Lucky's",
@@ -56,7 +40,9 @@
         "link":"luckys",
         "description":"alsnjdfasjdf"
        
-    },    {
+    },
+
+    {
         "category":"Best Burger",
         "winner":"Burger Bach",
         "runnerUp":"Bull City Burger",
@@ -81,14 +67,6 @@
         "description":"alsnjdfasjdf"
        
     },
-    {
-        "category":"Best Brunch",
-        "winner":"The Nasher",
-        "runnerUp":"Foster's",
-        "image":"Images/nasher.jpg",
-        "link":"nasher",
-        "description":"a;lksdknffas;kjdff"
-    },
    {
         "category":"Best Delivery",
         "winner":"Enzo's",
@@ -106,14 +84,6 @@
         "description":"alsnjdfasjdf"
        
     },
-    {
-        "category":"Best Late-Night Food",
-        "winner":"Cookout",
-        "runnerUp":"Cosmic",
-        "image":"Images/cookout.jpg",
-        "link":"cookout",
-        "description":"a;lksdknffas;kjdff"
-    },
    {
         "category":"Best Hotel",
         "winner":"Washington Duke",
@@ -122,37 +92,130 @@
         "link":"waduke",
         "description":"askjdlfaslj;df"
     },
+    {
+        "category":"Best Late-Night Food",
+        "winner":"Cookout",
+        "runnerUp":"Cosmic",
+        "image":"Images/cookout.jpg",
+        "link":"cookout",
+        "description":"a;lksdknffas;kjdff"
+    },
+
    {
         "category":"Best Cafe for Studying",
         "winner":"Cocoa Cinnamon",
         "runnerUp":"Bella Union",
         "image":"Images/cocoacinnamon.jpg",
-        "link":"coco",
+        "link":"cocoa",
         "description":"alsnjdfasjdf"
        
     },
     {
-        "category":"Best Bar to Watch a Game",
-        "winner":"Krafthouse",
-        "runnerUp":"Devine's",
-        "image":"Images/krafthouse.jpg",
-        "link":"krafthouse",
+        "category":"Best Place for a Haircut",
+        "winner":"140 Salon",
+        "runnerUp":"Pedro Williams",
+        "image":"Images/salon140.jpg",
+        "link":"140salon",
+        "description":"a;lksdknffas;kjdff"
+    },
+    {
+        "category":"Quenchers v Red Mango",
+        "winner":"Quenchers",
+        "runnerUp":"None",
+        "image":"Images/quenchers.jpg",
+        "link":"quenchers",
         "description":"a;lksdknffas;kjdff"
     },
    {
-        "category":"Best Place to Live Off Campus",
-        "winner":"Berkshire Ninth",
-        "runnerUp":"Lofts at Lakeview",
-        "image":"Images/berkshire.jpg",
-        "link":"berkshire",
+        "category":"Must Take Class",
+        "winner":"Enterprising Leadership",
+        "runnerUp":"",
+        "image":"Images/musttake.jpg",
+        "link":"musttake",
+        "description":"askjdlfaslj;df"
+    },
+    {
+        "category":"Best Professor",
+        "winner":"Dr. Baldwin",
+        "runnerUp":"Bill Adair",
+        "image":"Images/profbaldwin.jpg",
+        "link":"baldwin",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Pizza",
+        "winner":"Enzo's",
+        "runnerUp":"Pompieri",
+        "image":"Images/Enzos.jpg",
+        "link":"enzos",
+        "description":"askjdlfaslj;df"
+    },
+    {
+        "category":"Best Brunch",
+        "winner":"The Nasher",
+        "runnerUp":"Foster's",
+        "image":"Images/nasher.jpg",
+        "link":"nasher",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Study Abroad",
+        "winner":"Australia",
+        "runnerUp":"Hong Kong",
+        "image":"Images/Australia.jpg",
+        "link":"australia",
+        "description":"alsnjdfasjdf"
+       
+    },
+     {
+        "category":"Best Pre-Orientation Program",
+        "winner":"PWaves",
+        "runnerUp":"PWild",
+        "image":"Images/pwaves.jpg",
+        "link":"pwaves",
+        "description":"a;lksdknffas;kjdff"
+    },
+   {
+        "category":"Best Pool Off Campus",
+        "winner":"Belmont",
+        "runnerUp":"Lofts",
+        "image":"Images/belmont.jpg",
+        "link":"belmont",
         "description":"askjdlfaslj;df"
     },
    {
-        "category":"Favorite Place to Eat on Campus",
-        "winner":"Divinity Cafe",
-        "runnerUp":"Pitchforks",
-        "image":"Images/divcafe.jpg",
-        "link":"divcafe",
+        "category":"Best Healthy Option",
+        "winner":"Happy + Hale",
+        "runnerUp":"Sprout",
+        "image":"Images/happynhale.jpg",
+        "link":"happynhale",
+        "description":"alsnjdfasjdf"
+       
+    },
+   {
+        "category":"Best Duke Sports Team",
+        "winner":"Men's Basketball",
+        "runnerUp":"Men's Lacrosse",
+        "image":"Images/mensbball.jpg",
+        "link":"mensbball",
+        "description":"askjdlfaslj;df"
+    },
+   {
+        "category":"Best Male Athlete",
+        "winner":"Grayson Allen",
+        "runnerUp":"Marvin Bagley",
+        "thirdplace":"Third Place: Griffin Carter",
+        "image":"Images/graysonallen.jpg",
+        "link":"grayson",
+        "description":"alsnjdfasjdf"
+       
+    },
+   {
+        "category":"Best Female Athlete",
+        "winner":"Lexie Brown",
+        "runnerUp":"Rebecca Greenwell",
+        "image":"Images/lexiebrown.jpg",
+        "link":"grayson",
         "description":"alsnjdfasjdf"
        
     }
