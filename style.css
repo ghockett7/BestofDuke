@@ -13,7 +13,10 @@ h1 {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 40px;
-    padding-left: 10px;
+/*    padding-left: 10px;*/
+}
+h1.category{
+    font-weight: bold;
 }
 p {
 	font-family: Lora;
@@ -22,7 +25,7 @@ p {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 24px;
-    padding-left: 10px;
+/*    padding-left: 10px;*/
    
 }
 p.subcap{
@@ -45,7 +48,7 @@ h5 {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
-    padding-left: 14px;
+    padding-left: 10px;
 
 }
 h6 {
@@ -55,14 +58,14 @@ h6 {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
-    padding-left: 14px;
+    padding-left: 10px;
 
 }
 .spacer{
     line-height: 30px;
 }
 img.category{
-    padding: 10px;
+/*    padding: 10px;*/
     max-width: 90%;
     margin: auto;
 }
@@ -79,13 +82,16 @@ img.category{
     background-color: #003366;
 }
 a.navbar-brand{
-    line-height: 47px;
+    line-height: 23.5px;
     font-weight: bold;
     color: white;
 }
 .entry{
 /*    border: 1px solid grey;*/
 /*    background-color: rgb(234, 239, 250)*/
+/*        border: 1px solid;*/
+/*    border-color: aqua;*/
+    
 }
 .white-text{
     font-size: 24px;
@@ -93,4 +99,7 @@ a.navbar-brand{
 .col-centered{
     float: none;
     margin: 0 auto;
+}
+.gallery{
+    margin-bottom: 80px;
 }

@@ -5,7 +5,7 @@
         "runnerUp":"None",
         "image":"Images/shooters.jpg",
         "link":"shooters",
-        "description":"Faslkjdfalksjdkjfas;ljdff"
+        "description":"We will never, ever, ever turn our backs on Shooters. Some may even call it our second home. Don’t tell our parents, please."
     },
     {
         "category":"Best Bar to Watch a Game",
@@ -13,7 +13,7 @@
         "runnerUp":"Devine's",
         "image":"Images/krafthouse.jpg",
         "link":"krafthouse",
-        "description":"a;lksdknffas;kjdff"
+        "description":"The perks of watching a game at Krafthouse are endless. They serve up some delicious quesadillas, have craft beer on tap, are right on campus, AND take food-points. Next time you want to watch Carolina go to Hell, head on over to Krafthouse."
     },
    {
         "category":"Best Place to Live Off Campus",
@@ -21,7 +21,7 @@
         "runnerUp":"Lofts at Lakeview",
         "image":"Images/berkshire.jpg",
         "link":"berkshire",
-        "description":"askjdlfaslj;df"
+        "description":"Not only are the apartments beautiful (we’re talking granite countertops), but Berkshire Ninth also has a saltwater pool, a gigantic athletic center, AND a gaming lounge. Plus, it’s right next to Harris Teeter and Happy and Hale. So, when can we move in?"
     },
    {
         "category":"Favorite Place to Eat on Campus",
@@ -29,17 +29,15 @@
         "runnerUp":"Pitchforks",
         "image":"Images/divcafe.jpg",
         "link":"divcafe",
-        "description":"alsnjdfasjdf"
-       
+        "description":"Next question. Div Café is famous for their grilled cheese and tomato soup. And their buff-chick mac n’ cheese. AND their brunch spread. AND their muffins. We can go on and on and on. Pro tip: Wednesdays, AKA buff-chick mac and cheese day, make sure to get there early to beat the line."
     },
    {
-        "category":"Best Sandwhich",
+        "category":"Best Sandwich",
         "winner":"Lucky's",
         "runnerUp":"Grilled Cheese at Div",
         "image":"Images/Luckys.jpg",
         "link":"luckys",
-        "description":"alsnjdfasjdf"
-       
+        "description":"It’s tough to pick a favorite from Lucky’s, but we’re just sayin’, they make a MEAN meatball hero. Pro tip: They deliver!"
     },
 
     {
@@ -48,7 +46,7 @@
         "runnerUp":"Bull City Burger",
         "image":"Images/burgerbach.jpg",
         "link":"burgerbach",
-        "description":"a;lksdknffas;kjdff"
+        "description":"New Zealand all-natural grass-fed beef and lamb. Juicy, meaty, handmade patty deliciousness. Don’t forget, they also have every french-fry dipping sauce you could ever imagine. We’re talking aioli on aioli on aioli."
     },
    {
         "category":"Best Dessert",
@@ -56,7 +54,7 @@
         "runnerUp":"The Loop",
         "image":"Images/Parlour.jpg",
         "link":"parlour",
-        "description":"askjdlfaslj;df"
+        "description":"Parlor is the best place to get rid of your Sunday Scaries. You can’t help but smile when you try their exciting, unique flavors like Salted Butter Caramel and Rooibos Honey with Peach Jam."
     },
    {
         "category":"Best Sushi",
@@ -64,7 +62,7 @@
         "runnerUp":"Sushi Love",
         "image":"Images/msushi.jpg",
         "link":"msushi",
-        "description":"alsnjdfasjdf"
+        "description":"M Sushi is a real crowd pleaser thanks to their signature rolls and their dedication to using the freshest of fish. Maybe fish can be friends AND food?"
        
     },
    {
@@ -73,7 +71,7 @@
         "runnerUp":"Heavenly Buffalo's",
         "image":"Images/Enzos.jpg",
         "link":"enzos2",
-        "description":"askjdlfaslj;df"
+        "description":"Feeling saucy? Duke students obsess over Enzo’s. How can you not? They have online ordering, delivery, AND they accept food-points. You’ll want a pizza this."
     },
    {
         "category":"Best BBQ",
@@ -81,7 +79,7 @@
         "runnerUp":"The Pit",
         "image":"Images/qshack.jpg",
         "link":"qshack",
-        "description":"alsnjdfasjdf"
+        "description":"You haven’t had Carolina barbecue if you haven’t been to Q-Shack. The meat is “as tender as a mother’s love” according to Q-Shackers, and the hush puppies make the perfect side."
        
     },
    {
@@ -90,7 +88,7 @@
         "runnerUp":"Jb Duke",
         "image":"Images/waduke.jpg",
         "link":"waduke",
-        "description":"askjdlfaslj;df"
+        "description":"Not only is the Wa food to die for (spinach-artichoke dip, anyone?), but it’s the best place to spend a night near campus. Maybe, just maybe, it’s because of its perfectly manicured golf course, luxury guest rooms, and variety of hiking trails."
     },
     {
         "category":"Best Late-Night Food",
@@ -98,7 +96,7 @@
         "runnerUp":"Cosmic",
         "image":"Images/cookout.jpg",
         "link":"cookout",
-        "description":"a;lksdknffas;kjdff"
+        "description":"There is absolutely nothing more satisfying than dipping a golden, crunchy french fry in a frosty vanilla milkshake after a long night out. There just isn’t."
     },
 
    {
@@ -107,7 +105,7 @@
         "runnerUp":"Bella Union",
         "image":"Images/cocoacinnamon.jpg",
         "link":"cocoa",
-        "description":"alsnjdfasjdf"
+        "description":"Cute, quirky, and stocked full of delectable coffee—Coca Cinnamon is the perfect savior from Perkins."
        
     },
     {
@@ -116,7 +114,7 @@
         "runnerUp":"Pedro Williams",
         "image":"Images/salon140.jpg",
         "link":"140salon",
-        "description":"a;lksdknffas;kjdff"
+        "description":"There is nothing better than laying poolside at the Belmont once the sun comes out during Spring semester. Described as “the definition of luxury,” how could the Belmont not have the best pool around Durham? Did we mention there’s WiFi on the pool deck?"
     },
     {
         "category":"Quenchers v Red Mango",
@@ -124,7 +122,7 @@
         "runnerUp":"None",
         "image":"Images/quenchers.jpg",
         "link":"quenchers",
-        "description":"a;lksdknffas;kjdff"
+        "description":"Honestly, did we even need to ask? We’re just saying, there’s a petition going around begging Duke to keep Quenchers around instead of replacing it with Red Mango. Get your signature on there ASAP."
     },
    {
         "category":"Must Take Class",
@@ -132,7 +130,7 @@
         "runnerUp":"",
         "image":"Images/musttake.jpg",
         "link":"musttake",
-        "description":"askjdlfaslj;df"
+        "description":"Enterprising leadership, a Public Policy elective, teaches students everything they need to know about ethical enterprising leadership in organizations and groups. The class meets for 2.5 hours at a time, so if Duke students picked it as their favorite, it must be something special."
     },
     {
         "category":"Best Professor",
@@ -140,7 +138,7 @@
         "runnerUp":"Bill Adair",
         "image":"Images/profbaldwin.jpg",
         "link":"baldwin",
-        "description":"a;lksdknffas;kjdff"
+        "description":"Duke students absolutely love Dr. Steven W. Baldwin, a kick-ass Duke Chemistry Professor. Dry humor, hilarious, fun to listen to, fair, and found a way to make orgo manageable. Orgo. Can you think of a better set of qualities?"
     },
    {
         "category":"Best Pizza",
@@ -148,7 +146,7 @@
         "runnerUp":"Pompieri",
         "image":"Images/Enzos.jpg",
         "link":"enzos",
-        "description":"askjdlfaslj;df"
+        "description":"Feeling saucy? Duke students obsess over Enzo’s. How can you not? They have online ordering, delivery, AND they accept food-points. You’ll want a pizza this."
     },
     {
         "category":"Best Brunch",
@@ -156,7 +154,7 @@
         "runnerUp":"Foster's",
         "image":"Images/nasher.jpg",
         "link":"nasher",
-        "description":"a;lksdknffas;kjdff"
+        "description":"Fancy-shmancy brunch. On. Food. Points. We’re talking decadent omelets, salmon Benedict, Huevos Rancheros, and more. ’Nuff said."
     },
    {
         "category":"Best Study Abroad",
@@ -164,7 +162,7 @@
         "runnerUp":"Hong Kong",
         "image":"Images/Australia.jpg",
         "link":"australia",
-        "description":"alsnjdfasjdf"
+        "description":"Beautiful beaches, day-long hikes, surfing, snorkeling, koalas, and baby kangaroos. What more could you want on your one semester away from Duke? Did we mention there’s baby kangaroos?"
        
     },
      {
@@ -173,7 +171,7 @@
         "runnerUp":"PWild",
         "image":"Images/pwaves.jpg",
         "link":"pwaves",
-        "description":"a;lksdknffas;kjdff"
+        "description":"P-who? P-waves! Project Waves is a favorite among incoming freshman, who get to spend half a week at Duke’s Marine Lab, and half a week island hopping in kayaks along the coast of NC in the Outer Banks. No better way to make a new friend than to help make sure their kayak doesn’t tip over."
     },
    {
         "category":"Best Pool Off Campus",
@@ -181,7 +179,7 @@
         "runnerUp":"Lofts",
         "image":"Images/belmont.jpg",
         "link":"belmont",
-        "description":"askjdlfaslj;df"
+        "description":"There is nothing better than laying poolside at the Belmont once the sun comes out during Spring semester. Described as “the definition of luxury,” how could the Belmont not have the best pool around Durham? Did we mention there’s WiFi on the pool deck?"
     },
    {
         "category":"Best Healthy Option",
@@ -189,7 +187,7 @@
         "runnerUp":"Sprout",
         "image":"Images/happynhale.jpg",
         "link":"happynhale",
-        "description":"alsnjdfasjdf"
+        "description":"Craving avo toast? With honey-sriracha dressing on the side? How about an inspirational quote on your salad bowl? A vegetable pun? Happy and Hale’s got it all."
        
     },
    {
@@ -198,7 +196,7 @@
         "runnerUp":"Men's Lacrosse",
         "image":"Images/mensbball.jpg",
         "link":"mensbball",
-        "description":"askjdlfaslj;df"
+        "description":"They don’t call us Cameron Crazies for nothin’. Duke students are die-hard fans for the men’s basketball team, and for the team’s legendary coach, Coach K. Taking the team all the way to the Elite Eight this year, Coach K was just named the winningest men’s basketball coach in Division I."
     },
    {
         "category":"Best Male Athlete",
@@ -207,16 +205,15 @@
         "thirdplace":"Third Place: Griffin Carter",
         "image":"Images/graysonallen.jpg",
         "link":"grayson",
-        "description":"alsnjdfasjdf"
-       
+        "description":"Ah, Grayson, we’ve been with you through it all. Thanks for takin’ us all the way to the Elite Eight this year as team captain. We will miss you dearly next year, along with your 7-foot long wingspan, although we’ll probably see you on TV very shortly. Fun fact: He played in 105 games at Duke in uniform, and started 60 times."  
     },
    {
         "category":"Best Female Athlete",
         "winner":"Lexie Brown",
         "runnerUp":"Rebecca Greenwell",
         "image":"Images/lexiebrown.jpg",
-        "link":"grayson",
-        "description":"alsnjdfasjdf"
+        "link":"lexie",
+        "description":"We are always down with Lexie Brown! This standout star was a key player in each and every women’s basketball game this season. And we’re absolutely freaking out about her leaving this year. Fun fact: She broke the ACC record for number of straight free throws as a redshirt junior last year, when she hit 56."
        
     }
   ]
